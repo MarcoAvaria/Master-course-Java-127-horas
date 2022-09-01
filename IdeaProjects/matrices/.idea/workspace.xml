@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba073900-7f8f-400d-a5c8-3fc2411940e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesIdentidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesMarco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSimetrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesStringFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesStringFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTrasponerMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTraspuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tarea018ImprimirUnaX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tarea019ImprimirUnaSilla.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29EQ6H51o7wUqnCivsMbbHxDd90" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Java/matrices&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tarea019ImprimirUnaSilla">
+    <configuration name="EjemploMatricesIdentidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesIdentidad" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesMarco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesMarco" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesSumarFilasColumnas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesSumarFilasColumnas" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tarea018ImprimirUnaX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tarea018ImprimirUnaX" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tarea019ImprimirUnaSilla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tarea019ImprimirUnaSilla" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tarea019ImprimirUnaSilla" />
+        <item itemvalue="Application.Tarea018ImprimirUnaX" />
+        <item itemvalue="Application.EjemploMatricesIdentidad" />
+        <item itemvalue="Application.EjemploMatricesMarco" />
+        <item itemvalue="Application.EjemploMatricesSumarFilasColumnas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\MarcoAvaria\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba073900-7f8f-400d-a5c8-3fc2411940e4" name="Changes" comment="" />
+      <created>1652675588420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652675588420</updated>
+      <workItem from="1652675590352" duration="467000" />
+      <workItem from="1652676078500" duration="52000" />
+      <workItem from="1652676153701" duration="169000" />
+      <workItem from="1652677588810" duration="21000" />
+      <workItem from="1652677892844" duration="915000" />
+      <workItem from="1652715562781" duration="1979000" />
+      <workItem from="1652730119681" duration="4855000" />
+      <workItem from="1652801872760" duration="12058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EjemploMatrices.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EjemploMatricesStringFor.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
